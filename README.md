@@ -60,7 +60,7 @@ for private study. </blockquote></p>
  * 12:00 - 12:45 : Overview of MPI-IO
  * 12:45 - 13:00 : Practical: MPI-IO performance
  * 13:00 - 14:00 : Lunch
- * 14:00 - 14:30 : Cofiguring the Lustre filesystem
+ * 14:00 - 14:30 : Configuring the Lustre filesystem
  * 14:30 - 15:00 : Practical: MPI-IO performance (cont)
  * 15:00 - 15:30 : Higher-level parallel IO libraries
  * 15:30 - 16:00 : Break
