@@ -71,7 +71,7 @@ for private study. </blockquote></p>
 
 <p><blockquote>Unless otherwise indicated all material is Copyright &copy; EPCC, The University of Edinburgh, and is only made available for private study. </blockquote></p>
 
-To appear.
+Here is the <a href="slides/benchio-archer2.pdf">parallel IO exercise sheet.</a>. As explained in the sheet, source code and instructions for the IO benchmark can be found at <a href="https://github.com/davidhenty/benchio">https://github.com/davidhenty/benchio/.</a>
 
 ---
 
