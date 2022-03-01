@@ -53,16 +53,16 @@ for private study. </blockquote></p>
 <h4>Tuesday 11th January</h4>
 
  * 09:30 - 10:15 : <a href="https://github.com/EPCCed/archer2-parallelIO-2022-01-11/raw/main/slides/Parallel-IO-1.pdf">Challenges of Parallel IO</a>
- * 10:15 - 10:45 : <a href="https://github.com/EPCCed/archer2-parallelIO-2022-01-11/blob/main/slides/Parallel-IO-2.pdf">Lustre file system on ARCHER2</a>
+ * 10:15 - 10:45 : <a href="https://github.com/EPCCed/archer2-parallelIO-2022-01-11/raw/main/slides/Parallel-IO-2.pdf">Lustre file system on ARCHER2</a>
  * 10:45 - 11:00 : Practical: Basic IO performance
  * 11:00 - 11:30 : Break
  * 11:30 - 12:00 : Practical: Basic IO performance (cont)
- * 12:00 - 12:45 : <a href="https://github.com/EPCCed/archer2-parallelIO-2022-01-11/blob/main/slides/Parallel-IO-3.pdf">Overview of MPI-IO</a>
+ * 12:00 - 12:45 : <a href="https://github.com/EPCCed/archer2-parallelIO-2022-01-11/raw/main/slides/Parallel-IO-3.pdf">Overview of MPI-IO</a>
  * 12:45 - 13:00 : Practical: MPI-IO performance
  * 13:00 - 14:00 : Lunch
- * 14:00 - 14:30 : <a href="https://github.com/EPCCed/archer2-parallelIO-2022-01-11/blob/main/slides/Parallel-IO-4.pdf">Configuring the Lustre filesystem</a>
+ * 14:00 - 14:30 : <a href="https://github.com/EPCCed/archer2-parallelIO-2022-01-11/raw/main/slides/Parallel-IO-4.pdf">Configuring the Lustre filesystem</a>
  * 14:30 - 15:00 : Practical: MPI-IO performance (cont)
- * 15:00 - 15:30 : <a href="https://github.com/EPCCed/archer2-parallelIO-2022-01-11/blob/main/slides/Parallel-IO-5.pdf">Higher-level parallel IO libraries</a>
+ * 15:00 - 15:30 : <a href="https://github.com/EPCCed/archer2-parallelIO-2022-01-11/raw/main/slides/Parallel-IO-5.pdf">Higher-level parallel IO libraries</a>
  * 15:30 - 16:00 : Break
  * 16:00 - 17:00 : Q&A / Finish exercises
  * 17:00         : CLOSE
@@ -71,7 +71,7 @@ for private study. </blockquote></p>
 
 <p><blockquote>Unless otherwise indicated all material is Copyright &copy; EPCC, The University of Edinburgh, and is only made available for private study. </blockquote></p>
 
-Here is the <a href="https://github.com/EPCCed/archer2-parallelIO-2022-01-11/blob/main/exercises/benchio-archer2.pdf">parallel IO exercise sheet.</a>. As explained in the sheet, source code and instructions for the IO benchmark can be found at <a href="https://github.com/davidhenty/benchio">https://github.com/davidhenty/benchio/.</a>
+Here is the <a href="https://github.com/EPCCed/archer2-parallelIO-2022-01-11/raw/main/exercises/benchio-archer2.pdf">parallel IO exercise sheet.</a>. As explained in the sheet, source code and instructions for the IO benchmark can be found at <a href="https://github.com/davidhenty/benchio">https://github.com/davidhenty/benchio/.</a>
 
 ---
 
