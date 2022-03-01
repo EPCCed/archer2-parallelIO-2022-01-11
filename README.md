@@ -52,7 +52,7 @@ for private study. </blockquote></p>
 
 <h4>Tuesday 11th January</h4>
 
- * 09:30 - 10:15 : <a href="https://github.com/EPCCed/archer2-parallelIO-2022-01-11/blob/main/slides/Parallel-IO-1.pdf">Challenges of Parallel IO</a>
+ * 09:30 - 10:15 : <a href="https://github.com/EPCCed/archer2-parallelIO-2022-01-11/raw/main/slides/Parallel-IO-1.pdf">Challenges of Parallel IO</a>
  * 10:15 - 10:45 : <a href="slides/Parallel-IO-2.pdf">Lustre file system on ARCHER2</a>
  * 10:45 - 11:00 : Practical: Basic IO performance
  * 11:00 - 11:30 : Break
