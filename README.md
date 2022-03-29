@@ -29,10 +29,14 @@ libraries such as HDF5 and NetCDF. A good understanding of the
 performance characteristics of MPI-IO is therefore very useful in
 optimising the IO performance of most parallel applications.
 
+The course does not teach the detailed syntax of the various parallel
+IO libraries, but the Fortran source code for the benchmarking
+application used in the practical sessions should be useful reference
+material.
 
 <h3>Prerequisites</h3>
 
-Prerequisites: The course assumes a good understanding of basic MPI
+Prerequisites: The course assumes an understanding of basic MPI
 programming in C, C++ or Fortran. Knowledge of MPI derived datatypes
 would be useful but not essential.
 
